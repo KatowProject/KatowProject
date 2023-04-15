@@ -1,12 +1,10 @@
-![M. Naufal Faqih](https://media.discordapp.net/attachments/932997960923480099/990744379897577472/275974375_484662276541466_4296706263953870232_n.jpg)
+![M. Naufal Faqih](https://cdn.discordapp.com/attachments/932997960923480099/1096707624336109639/kato.png)
 
 ## Hello, Welcome to My Profile! 👋
 
-<!-- ## 👋 &nbsp;Hey there! I'm Aditya -->
-
 ### 👨🏻‍💻 &nbsp;About Me
 
-hi, I'm a Progammer who have been following about technology since I was 12 years old. I like playing computer, games and watching anime. pursuing master's degree in computer science has always been my ambition. i'm focusing on back-end development, Devops, and Cyber Security. 
+hi, I'm a Programmer who have been following about technology since I was 12 years old. I like playing computer, games and watching anime. pursuing master's degree in computer science has always been my ambition. i'm focusing on back-end development, Devops, and Cyber Security. 
 
 Nice to meet you.
 
@@ -44,9 +42,9 @@ Nice to meet you.
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://www.katowproject.ink"><img src="https://img.shields.io/badge/-katowproject.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.katowproject.app"><img src="https://img.shields.io/badge/-katowproject.app-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
 <a href="https://www.linkedin.com/in/m-naufal-faqih-29a3b1179"><img src="https://img.shields.io/badge/-M.%20Naufal%20Faqih-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="https://wwww.instagram.com/naufal.faqih">
+<a href="https://www.instagram.com/naufal.faqih">
 <img src="https://img.shields.io/badge/-@naufal.faqih-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 
 

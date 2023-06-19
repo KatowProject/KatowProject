@@ -1,5 +1,6 @@
+<!--
 ![M. Naufal Faqih](https://cdn.discordapp.com/attachments/932997960923480099/1096707624336109639/kato.png)
-
+-->
 ## Hello, Welcome to My Profile! 👋
 
 ### 👨🏻‍💻 &nbsp;About Me

@@ -13,6 +13,18 @@ Nice to meet you.
     <img src = "https://discord.c99.nl/widget/theme-1/458342161474387999.png">
 </p>
 
+### 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=Dart)&nbsp;
+![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
+![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
+![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)
+
+
 ### 💻 Devices Specification
 - **PC**
   - **Processor**: Intel Core i5-13500
@@ -30,22 +42,6 @@ Nice to meet you.
   - **RAM**: 16GB DDR4 3200MHz
   - **Storage**: 512GB NVMe SSD
   - **OS**: Windows 11 Pro + WSL2
-### 🛠 &nbsp;Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java)&nbsp;
-![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=Dart)&nbsp;
-![Go](https://img.shields.io/badge/Go-05122A?style=flat&logo=Go)&nbsp;
-![PHP](https://img.shields.io/badge/PHP-05122A?style=flat&logo=php)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)\
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ### ⚙️ &nbsp;GitHub Analytics
 

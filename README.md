@@ -9,7 +9,27 @@ hi, I'm a Programmer who have been following about technology since I was 12 yea
 
 Nice to meet you.
 
+<p align="center">
+    <img src = "https://discord.c99.nl/widget/theme-1/458342161474387999.png">
+</p>
 
+### 💻 Devices Specification
+- **PC**
+  - **Processor**: Intel Core i5-13500
+  - **Motherboard**: MSI B660 Tomahawk WiFi
+  - **RAM**: 32GB DDR4 3200MHz
+  - **Storage**: 1TB NVMe SSD, 512GB SATA SSD, 1TB HDD
+  - **GPU**: AMD Radeon Asrock RX 6700 XT Phantom Gaming
+  - **PSU**: Cooler Master MWE GOLD 650W
+  - **Case**: DarkFlash DK431 MESH
+  - **Monitor**: ViewSonic 27" VX2758-2KP-MHD 240Hz
+  - **OS**: Windows 11 Pro + WSL2
+- **Laptop**
+  - **Model**: Asus Vivobook S 14X OLED
+  - **Processor**: Intel Core i7-12700H
+  - **RAM**: 16GB DDR4 3200MHz
+  - **Storage**: 512GB NVMe SSD
+  - **OS**: Windows 11 Pro + WSL2
 ### 🛠 &nbsp;Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
@@ -26,10 +46,6 @@ Nice to meet you.
 ![Svelte](https://img.shields.io/badge/-Svelte-05122A?style=flat&logo=svelte)
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-
-<p align="center">
-    <img src = "https://discord.c99.nl/widget/theme-1/458342161474387999.png">
-</p>
 
 ### ⚙️ &nbsp;GitHub Analytics
 
